@@ -1,0 +1,3 @@
+rootProject.name = 'Notely'
+
+include ':app'

@@ -1,0 +1,12 @@
+export const filter_normal = require('./ic_filter_non_applied.png');
+export const filter_applied = require('./ic_filter_applied_icon.png');
+export const filter_check = require('./ic_filter_check.png');
+export const filter_uncheck = require('./ic_filter_uncheck.png');
+export const cross = require('./ic_cross.png');
+export const ic_like = require('./ic_like.png');
+export const ic_star = require('./ic_star.png');
+export const ic_unlike = require('./ic_unlike.png');
+export const ic_unstar = require('./ic_unstar.png');
+export const ic_trash = require('./ic_trash.png');
+export const ic_back = require('./ic_back.png');
+export const ic_add = require('./ic_add.png');
